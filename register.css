@@ -1,0 +1,29 @@
+body{
+    background-image: url(../Image/th.jpeg);
+}
+p{
+    color: rgb(18, 200, 200);
+    display: inline-block;
+}
+.yourcountry{
+    margin-left: 200px;
+}
+.fullname{
+    margin-left: 200px;
+}
+.classname{
+    margin-left: 200px;
+}
+.gender{
+    margin-left: 200px;
+}
+.youravatar{
+    margin-left: 200px;
+}
+.register{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+h1{
+    margin-left: 100px;
+}
